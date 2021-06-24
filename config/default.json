@@ -1,0 +1,6 @@
+{
+  "port": 3333,
+  "db_url": "mongodb+srv://user:user@cluster0.nyown.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "secret": "node-secret-key",
+  "static": "D:\\Programming Nekos\\web-development\\backend\\wenn\\static"
+}
